@@ -1,6 +1,7 @@
 streamlit
 mediapipe
 opencv-python-headless
-numpy
+numpy<2.0.0
 pandas
 scipy
+protobuf<=3.20.x
